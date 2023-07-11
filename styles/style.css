@@ -2,6 +2,9 @@ body{
     font-family: 'Lato', sans-serif;
 font-family: 'Open Sans', sans-serif;
 }
+.section1{
+    margin: 0 auto;
+}
 
 .banner-title{
     display: flex;
@@ -192,11 +195,11 @@ flex-shrink: 0;
     padding: 30px 150px;
     text-align: center;
 }
-main{
+.main{
     max-width: 1140px;
-    margin: 0px;
+    margin: 0 auto;
 }
-main section{
+.main section{
 margin-top: 130px;
 }
 .set-image{
