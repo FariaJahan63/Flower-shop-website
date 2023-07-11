@@ -82,6 +82,7 @@ height: 538px;
 flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    gap: 24px;
 }
 .f2{
     width: 464px;
@@ -89,6 +90,7 @@ flex-shrink: 0;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
+gap: 24px;
 }
 .f3{
     width: 464px;
@@ -96,6 +98,7 @@ background: rgba(5, 151, 160, 0.15);
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
+gap: 24px;
 }
 
 
@@ -172,6 +175,7 @@ flex-shrink: 0;
 }
 #Instragram{
     padding: 30px 150px;
+    text-align: center;
 }
 main{
     max-width: 1140px;
@@ -261,6 +265,9 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+}
+.footer-column{
+    text-align: center;
 }
 
 
